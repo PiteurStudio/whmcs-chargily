@@ -1,3 +1,13 @@
+# Chargily Payment Module for WHMCS (Archived)
+
+This module is deprecated as Chargily has moved to v2 API. The v1 API is no longer supported, and users are encouraged to switch to the official module for the v2 API.
+
+Please visit the official repository for the latest version: [https://github.com/Chargily/chargily-pay-whmcs](https://github.com/Chargily/chargily-pay-whmcs)
+
+**Note:** This repository is archived and is no longer maintained.
+
+--------------
+
 ## Chargily payment module for WHMCS
 
 ![chargily-activate](https://github.com/n4ss1m/chargily-whmcs/assets/1750845/6511657e-82df-4177-ae1c-7ddaf35ce45b)
